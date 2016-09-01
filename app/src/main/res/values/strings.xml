@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">saludo</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_base_url"></string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">Patients</string>
+    <string name="backdrop_subtitle">Salud</string>
+    <string name="patient">Patient</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="personalia">Personalia</string>
+</resources>
